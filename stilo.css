@@ -1,0 +1,21 @@
+*{
+    padding:0%;
+    margin: 1%;
+    margin-top: auto;
+    margin-bottom: 1%;
+    box-sizing: 20;
+    border-top: 10px;
+    box-shadow: 10px;
+
+}
+
+.form{
+    padding: 1%;
+    margin: 1%;
+    box-sizing: 10%;
+    border-top: 10px;
+}
+
+nav{
+
+}
